@@ -1,1 +1,1 @@
-# API-generathon
+# API-Generate-a-thon
