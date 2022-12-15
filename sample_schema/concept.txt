@@ -1,0 +1,2 @@
+Concept : making a basic library managment databse from sql queries
+
