@@ -1,0 +1,21 @@
+# Python
+backend/apiGenerator/*.pyc
+backend/apiGenerator/*~
+__pycache__
+
+# Env
+backend/virtenv/
+
+# Database
+backend/apiGenerator/db.sqlite3
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
